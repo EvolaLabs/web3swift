@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'web3swift'
+  s.name = 'web3swift_evolalabs'
   s.version = '3.0.0'
   s.summary = 'Web3 library for iOS and macOS'
   s.description = 'A pure Swift library for Ethereum blockchain interaction'
